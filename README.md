@@ -1,4 +1,3 @@
-# hello-world
-just another repository
+# Project Churn-Emails
 
-Hi ,its just an another repository
+It churn the email data and collect the possible insights from it
